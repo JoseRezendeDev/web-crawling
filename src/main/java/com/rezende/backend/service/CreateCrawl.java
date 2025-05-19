@@ -1,8 +1,8 @@
-package com.axreng.backend.service;
+package com.rezende.backend.service;
 
-import com.axreng.backend.dto.CreateCrawlRequest;
-import com.axreng.backend.dto.CreateCrawlResponse;
-import com.axreng.backend.repository.CrawlRepositoryImpl;
+import com.rezende.backend.dto.CreateCrawlRequest;
+import com.rezende.backend.dto.CreateCrawlResponse;
+import com.rezende.backend.repository.CrawlRepositoryImpl;
 import com.google.gson.Gson;
 import spark.Request;
 import spark.utils.StringUtils;

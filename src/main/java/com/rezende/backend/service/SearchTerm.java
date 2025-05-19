@@ -1,7 +1,7 @@
-package com.axreng.backend.service;
+package com.rezende.backend.service;
 
-import com.axreng.backend.entity.CrawlEntity;
-import com.axreng.backend.repository.CrawlRepository;
+import com.rezende.backend.entity.CrawlEntity;
+import com.rezende.backend.repository.CrawlRepository;
 import spark.utils.StringUtils;
 
 import java.io.IOException;
@@ -9,9 +9,7 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 /**

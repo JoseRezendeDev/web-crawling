@@ -1,6 +1,6 @@
-package com.axreng.backend.repository;
+package com.rezende.backend.repository;
 
-import com.axreng.backend.entity.CrawlEntity;
+import com.rezende.backend.entity.CrawlEntity;
 
 import java.util.Collection;
 

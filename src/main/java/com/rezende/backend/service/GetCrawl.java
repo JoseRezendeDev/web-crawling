@@ -1,9 +1,9 @@
-package com.axreng.backend.service;
+package com.rezende.backend.service;
 
-import com.axreng.backend.dto.GetCrawlResponse;
-import com.axreng.backend.entity.CrawlEntity;
-import com.axreng.backend.exception.CrawlNotFoundException;
-import com.axreng.backend.repository.CrawlRepository;
+import com.rezende.backend.dto.GetCrawlResponse;
+import com.rezende.backend.entity.CrawlEntity;
+import com.rezende.backend.exception.CrawlNotFoundException;
+import com.rezende.backend.repository.CrawlRepository;
 
 import java.util.List;
 import java.util.Objects;

@@ -1,4 +1,4 @@
-package com.axreng.backend.exception;
+package com.rezende.backend.exception;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-package com.axreng.backend.entity;
+package com.rezende.backend.entity;
 
 import java.util.ArrayList;
 import java.util.List;

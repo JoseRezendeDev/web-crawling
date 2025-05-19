@@ -1,4 +1,4 @@
-package com.axreng.backend.dto;
+package com.rezende.backend.dto;
 
 public class CreateCrawlRequest {
     private String keyword;
